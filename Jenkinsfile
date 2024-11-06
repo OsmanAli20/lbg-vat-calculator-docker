@@ -1,4 +1,3 @@
-  GNU nano 7.2                                       Jenkinsfile                                                 
 pipeline{
  environment {
  registry = "osmanali20/vatcal"
